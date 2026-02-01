@@ -1,6 +1,6 @@
 # Bachelor End Project on assessing forecast comparison tests under proper scoring rules
 
-The files that are used in the simulations is adapted from the publicly accessible repository of Lerch et al., 2020, https://doi.org/10.5194/npg-2019-62. (Github repository: https://github.com/slerch/multiv_pp). The copula extensions and artificial data from M.G.J. Flos et al. (2025) and M. G. J. Flos (2022) are accessible at https://github.com/mgjfl/BEP-BAM and https://github.com/elisaperrone/COBASE github.
+The files that are used in the simulations is adapted from the publicly accessible repository of Lerch et al., 2020, https://doi.org/10.5194/npg-2019-62. (Github repository: https://github.com/slerch/multiv_pp). The copula extensions and artificial data from M.G.J. Flos et al. (2025) and M. G. J. Flos (2022) are accessible at https://github.com/mgjfl/BEP-BAM and https://github.com/elisaperrone/COBASE_github.
 
 ## References:
 - Lerch, S., Baran, S., Möller, A., Groß, J., Schefzik, R., Hemri, S., & Gräter, M. (2020). Simulation-based comparison of multivariate ensemble post-processing methods. Nonlinear Processes in Geophysics Discussions. https://doi.org/10.5194/npg-2019-62
