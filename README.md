@@ -4,7 +4,7 @@ The files that are used in the simulations is adapted from the publicly accessib
 
 ## References:
 - Lerch, S., Baran, S., Möller, A., Groß, J., Schefzik, R., Hemri, S., & Gräter, M. (2020). Simulation-based comparison of multivariate ensemble post-processing methods. Nonlinear Processes in Geophysics Discussions. https://doi.org/10.5194/npg-2019-62
-- Flos, M.G.J., Fran¸cois, B., Schicker, I., Whan, K., & Perrone, E. (2025). COBASE: A new copula-based shuffling method for ensemble weather forecast postprocessing. http://arxiv.org/abs/2510.25610
+-M. Flos, B. François, I. Schicker, K. Whan, E. Perrone. COBASE: A new copula-based shuffling method for ensemble weather forecast postprocessing, to appear in Quarterly Journal of the Royal Meteorological Society, doi:10.1002/qj.70138 (2026) (http://arxiv.org/abs/2510.25610)
 - Flos, M. G. J. (2022). Copula-based statistical postprocessing for weather data (tech. rep.). Eindhoven University of Technology. https://research.tue.nl/en/studentTheses/copula-based-statistical-postprocessing-for-weather-data/
 
 # Code Structure
