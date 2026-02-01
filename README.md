@@ -1,4 +1,4 @@
-# Bachelor End Project on the sensitivity of the DM test to proper scoring rules
+# Bachelor End Project on assessing forecast comparison tests under proper scoring rules
 
 The files that are used in the simulations is adapted from the publicly accessible repository of Lerch et al., 2020, https://doi.org/10.5194/npg-2019-62. (Github repository: https://github.com/slerch/multivpp). The copula extensions and artificial data from M.G.J. Flos et al. (2025) and M. G. J. Flos (2022) are accessible at https://github.com/mgjfl/BEP-BAM and https://github.com/elisaperrone/COBASE.
 
@@ -7,7 +7,7 @@ The files that are used in the simulations is adapted from the publicly accessib
 - Flos, M.G.J., Fran¸cois, B., Schicker, I., Whan, K., & Perrone, E. (2025). COBASE: A new copula-based shuffling method for ensemble weather forecast postprocessing. http://arxiv.org/abs/2510.25610
 - Flos, M. G. J. (2022). Copula-based statistical postprocessing for weather data (tech. rep.). Eindhoven University of Technology. https://research.tue.nl/en/studentTheses/copula-based-statistical-postprocessing-for-weather-data/
 
-# Code Structure -> nog afmaken! source codes!
+# Code Structure
 ```python
 
 BAM_BEP_DM_test/
